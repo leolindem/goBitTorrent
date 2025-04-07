@@ -19,6 +19,6 @@ go run main.go
 ### Frontend
 
 ```bash
-cd BitTorrentClient
-go run main.go
+cd Frontend
+npm run dev
 ```
